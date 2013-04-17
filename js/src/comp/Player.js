@@ -5,7 +5,7 @@
 // 2 (paused)
 // 3 (buffering)
 // 5 (video cued).
-
+function test(){}
 function onPlayerStateChange0(s){onPlayerStateChange(0,s)}
 function onPlayerStateChange1(s){onPlayerStateChange(1,s)}
 function onPlayerStateChange2(s){onPlayerStateChange(2,s)}
